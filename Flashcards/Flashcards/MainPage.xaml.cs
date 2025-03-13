@@ -21,10 +21,12 @@
             if (isQuestion)
             {
                 Flashcard.Text = currentAnswer;
+                Flashcard.BackgroundColor = Colors.Turquoise;
             }
             else
             {
                 Flashcard.Text = currentQuestion;
+                Flashcard.BackgroundColor = Colors.Lavender;
             }
 
             isQuestion = !isQuestion;

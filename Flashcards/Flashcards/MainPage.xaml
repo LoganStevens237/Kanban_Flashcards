@@ -27,7 +27,7 @@
         </HorizontalStackLayout>
 
         <VerticalStackLayout Grid.Row="3">
-            <Button Style="{StaticResource FlashCardLabel}" Text="Question" x:Name="Flashcard" Clicked="OnFlipClick"></Button>
+            <Button Style="{StaticResource FlashCardLabel}" Text="Question" x:Name="Flashcard" Clicked="OnFlipClick" FontSize="50"></Button>
         </VerticalStackLayout>
     </Grid>
 
