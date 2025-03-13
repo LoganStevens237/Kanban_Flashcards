@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q2\\PSE\\KanBan\\Kanban_Flashcards\\Flashcards\\",
+  "WorkspaceRootPath": "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BF6F5B3-B452-422A-978A-A904AFEEB8B2}|Flashcards\\Flashcards.csproj|c:\\users\\semiller\\onedrive - neumont college of computer science\\documents\\year2\\q2\\pse\\kanban\\kanban_flashcards\\flashcards\\flashcards\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BF6F5B3-B452-422A-978A-A904AFEEB8B2}|Flashcards\\Flashcards.csproj|c:\\users\\jaycee sochi\\documents\\github\\kanban_flashcards\\flashcards\\flashcards\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BF6F5B3-B452-422A-978A-A904AFEEB8B2}|Flashcards\\Flashcards.csproj|solutionrelative:flashcards\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BF6F5B3-B452-422A-978A-A904AFEEB8B2}|Flashcards\\Flashcards.csproj|c:\\users\\semiller\\onedrive - neumont college of computer science\\documents\\year2\\q2\\pse\\kanban\\kanban_flashcards\\flashcards\\flashcards\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7BF6F5B3-B452-422A-978A-A904AFEEB8B2}|Flashcards\\Flashcards.csproj|c:\\users\\jaycee sochi\\documents\\github\\kanban_flashcards\\flashcards\\flashcards\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7BF6F5B3-B452-422A-978A-A904AFEEB8B2}|Flashcards\\Flashcards.csproj|solutionrelative:flashcards\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BF6F5B3-B452-422A-978A-A904AFEEB8B2}|Flashcards\\Flashcards.csproj|c:\\users\\semiller\\onedrive - neumont college of computer science\\documents\\year2\\q2\\pse\\kanban\\kanban_flashcards\\flashcards\\flashcards\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BF6F5B3-B452-422A-978A-A904AFEEB8B2}|Flashcards\\Flashcards.csproj|c:\\users\\jaycee sochi\\documents\\github\\kanban_flashcards\\flashcards\\flashcards\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7BF6F5B3-B452-422A-978A-A904AFEEB8B2}|Flashcards\\Flashcards.csproj|solutionrelative:flashcards\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF6F5B3-B452-422A-978A-A904AFEEB8B2}|Flashcards\\Flashcards.csproj|c:\\users\\jaycee sochi\\documents\\github\\kanban_flashcards\\flashcards\\flashcards\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BF6F5B3-B452-422A-978A-A904AFEEB8B2}|Flashcards\\Flashcards.csproj|solutionrelative:flashcards\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,20 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q2\\PSE\\KanBan\\Kanban_Flashcards\\Flashcards\\Flashcards\\MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\MauiProgram.cs",
               "RelativeDocumentMoniker": "Flashcards\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q2\\PSE\\KanBan\\Kanban_Flashcards\\Flashcards\\Flashcards\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\MauiProgram.cs",
               "RelativeToolTip": "Flashcards\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T00:25:04.83Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -43,13 +48,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Flashcards\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Flashcards\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAJIBAAAAAAAAAAAiwLMBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T06:37:36.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q2\\PSE\\KanBan\\Kanban_Flashcards\\Flashcards\\Flashcards\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Flashcards\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q2\\PSE\\KanBan\\Kanban_Flashcards\\Flashcards\\Flashcards\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\MainPage.xaml.cs",
               "RelativeToolTip": "Flashcards\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T00:38:03.976Z",
               "EditorCaption": ""
@@ -58,13 +76,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q2\\PSE\\KanBan\\Kanban_Flashcards\\Flashcards\\Flashcards\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\MainPage.xaml",
               "RelativeDocumentMoniker": "Flashcards\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q2\\PSE\\KanBan\\Kanban_Flashcards\\Flashcards\\Flashcards\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\MainPage.xaml",
               "RelativeToolTip": "Flashcards\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAABkAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-12T00:24:51.845Z"
+              "WhenOpened": "2025-03-12T00:24:51.845Z",
+              "EditorCaption": ""
             }
           ]
         }
