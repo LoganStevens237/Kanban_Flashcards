@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q2\\PSE\\KanBan\\Kanban_Flashcards\\Flashcards\\Flashcards\\Flashcards.csproj": {}
+    "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\Flashcards.csproj": {}
   },
   "projects": {
-    "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q2\\PSE\\KanBan\\Kanban_Flashcards\\Flashcards\\Flashcards\\Flashcards.csproj": {
+    "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\Flashcards.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q2\\PSE\\KanBan\\Kanban_Flashcards\\Flashcards\\Flashcards\\Flashcards.csproj",
+        "projectUniqueName": "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\Flashcards.csproj",
         "projectName": "Flashcards",
-        "projectPath": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q2\\PSE\\KanBan\\Kanban_Flashcards\\Flashcards\\Flashcards\\Flashcards.csproj",
-        "packagesPath": "C:\\Users\\semiller\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q2\\PSE\\KanBan\\Kanban_Flashcards\\Flashcards\\Flashcards\\obj\\",
+        "projectPath": "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\Flashcards.csproj",
+        "packagesPath": "C:\\Users\\Jaycee Sochi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jaycee Sochi\\Documents\\GitHub\\Kanban_Flashcards\\Flashcards\\Flashcards\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\semiller\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jaycee Sochi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -61,7 +61,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0-android34.0": {
@@ -82,7 +82,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.14, )",
+              "version": "[8.0.11, )",
               "autoReferenced": true
             }
           },
@@ -127,7 +127,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-ios18.0": {
           "targetAlias": "net8.0-ios",
@@ -147,7 +147,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.14, )",
+              "version": "[8.0.11, )",
               "autoReferenced": true
             }
           },
@@ -180,7 +180,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-maccatalyst18.0": {
           "targetAlias": "net8.0-maccatalyst",
@@ -200,7 +200,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.14, )",
+              "version": "[8.0.11, )",
               "autoReferenced": true
             }
           },
@@ -234,7 +234,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
@@ -266,7 +266,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.19041.57, 10.0.19041.57]"
+              "version": "[10.0.19041.54, 10.0.19041.54]"
             }
           ],
           "frameworkReferences": {
@@ -277,7 +277,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
